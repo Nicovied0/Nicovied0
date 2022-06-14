@@ -1,4 +1,4 @@
-# :man_technologist: Nicolas Oviedo
+
 ### Hola 👋. Mi nombre es Nicolás Oviedo, Fullstack JavaScript Developer. 
 Especializado en el Front-End
 
