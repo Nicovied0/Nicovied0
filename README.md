@@ -1,10 +1,8 @@
 ### Hi there 👋
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicol%C3%A1s-b-oviedo-0989241bb//)](https://www.linkedin.com/in/nicol%C3%A1s-b-oviedo-0989241bb//)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:briannoviedo@gmail.com)](mailto:briannoviedo@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:briannicolasoviedo@hotmail.com)](mailto:briannicolasoviedo@hotmail.com)
  
  
 <!--
