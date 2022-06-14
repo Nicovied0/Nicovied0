@@ -28,6 +28,7 @@ Especializado en el Front-End
 <samp>
  :art: Portfolio: https://nicovied0.github.io/ <br>
  </samp>
+ 
  ##
 <!--
 
