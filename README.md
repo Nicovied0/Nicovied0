@@ -1,5 +1,8 @@
-<h1 align="center">Hola 👋. Mi nombre es Nicolás Oviedo</h1>
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hola👋🏻,+Soy+Nicolas+Oviedo;Front-End+Developer)
+##
+
 <h3 align="center" >Fullstack JavaScript Developer. Especializado en el Front-End.</h3>
+
 
 
 
