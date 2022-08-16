@@ -66,7 +66,7 @@
 
 ---
 <samp>
- :art: Portfolio: https://ondev.vercel.app/  <br>
+ :art: Portfolio: https://ondev.vercel.app <br>
  </samp>
  
  
