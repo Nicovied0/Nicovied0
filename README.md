@@ -69,6 +69,11 @@
  :art: Portfolio: https://ondev.vercel.app <br>
  </samp>
  
+ <samp>
+ CV: 
+ <img src="NICOLAS_OVIEDO.pdf" alt="Img" />
+ </samp>
+ 
  
 ---
 <!--
