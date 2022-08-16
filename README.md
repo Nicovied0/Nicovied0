@@ -70,8 +70,7 @@
  </samp>
  
  <samp>
- CV: 
- <img src="NICOLAS_OVIEDO.pdf" alt="Img" />
+  🔻Download CV : https://ondev.vercel.app/assets/about/NICOLAS_OVIEDO.pdf 🔻
  </samp>
  
  
