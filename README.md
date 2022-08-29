@@ -13,9 +13,6 @@
 <a href="mailto:briannoviedo@gmail.com" target="blank">
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail-nico" height="30" width="40" />
 </a>
-<a href="mailto:briannicolasoviedo@hotmail.com" target="blank">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook-nico" height="30" width="40" />
-</a>
  </div>
 
  
