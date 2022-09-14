@@ -69,7 +69,7 @@
   🔻Download CV : https://ondev.vercel.app/assets/about/NICOLAS_OVIEDO.pdf 🔻
  </samp>
  
- ![Snake animation](https://github.com/Nicovied0/Nicovied0/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Nicovied0/Nicovied0/blob/output/github-contribution-grid-snake.gif)
 ---
 <!--
 
