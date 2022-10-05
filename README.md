@@ -18,7 +18,7 @@
  
  ## Conocimientos / Tecnologías
 
-<p align="left">
+<p align="left" >
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
@@ -54,8 +54,11 @@
         <img title="nodejs" alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> 
+        <img title="Express" alt="express" height="30" width="40" src="https://img.icons8.com/ios/50/000000/express-js.png"/> 
     </a>  
+     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img title="SQL" alt="express" height="30" width="40" src="https://img.icons8.com/color-glass/48/000000/sql.png"/> 
+    </a>
 </p>
 
 
