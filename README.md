@@ -56,8 +56,8 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img title="Express" alt="express" height="30" width="40" src="https://img.icons8.com/ios/50/000000/express-js.png"/> 
     </a>  
-     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img title="SQL" alt="express" height="30" width="40" src="https://img.icons8.com/color-glass/48/000000/sql.png"/> 
+     <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+        <img title="sequelize" alt="express" height="30" width="40" src="https://sequelize.org/img/logo.svg"/> 
     </a>
 </p>
 
