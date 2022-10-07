@@ -54,7 +54,7 @@
         <img title="nodejs" alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img title="Express" alt="express" height="30" width="40" src="https://img.icons8.com/ios/50/000000/express-js.png"/> 
+        <img title="Express" alt="express" height="30" width="40" src="https://ondev.vercel.app/assets/img/express.svg"/> 
     </a>  
      <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
         <img title="sequelize" alt="express" height="30" width="40" src="https://sequelize.org/img/logo.svg"/> 
