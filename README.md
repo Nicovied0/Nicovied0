@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hola👋🏻,+Soy+Nicolas+Oviedo;Front-End+Developer)
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hola👋🏻,+Soy+Nicolas+Oviedo;Full+stack+web+Developer)
 
 ---
 <h3 align="center" >Fullstack JavaScript Developer. Especializado en el Front-End.</h3>
