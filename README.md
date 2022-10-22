@@ -1,7 +1,7 @@
 ![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hola👋🏻,+Soy+Nicolas+Oviedo;Full+stack+web+Developer)
 
 ---
-<h3 align="center" >Full Stack Web Developer. Specialized in the Front-End.</h3>
+<h3 align="center" >Full Stack Web Developer. Especializado en Front-End.</h3>
 
 
 
