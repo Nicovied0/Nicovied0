@@ -1,7 +1,11 @@
 ![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hola👋🏻,+Soy+Nicolas+Oviedo;Full+stack+web+Developer)
 
 ---
-<h3 align="center" >Full Stack Web Developer. Especializado en Front-End.</h3>
+<img  src="https://drive.google.com/file/d/15uhWl-lieAd7zX926nNn9Nr6odOwWE-a/view?usp=sharing" />
+
+
+
+[<h3 align="center" >Full Stack Web Developer. Especializado en Front-End.</h3>](https://drive.google.com/file/d/1x1xbz7xNgSO6yEMPa6911PXL829BfTKB/view?usp=sharing)
 
 
 
@@ -15,8 +19,14 @@
 </a>
  </div>
 
+## Languages - GitHub Stats 
+
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicovied0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Azthirk" /></p>
+
+<p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicovied0&show_icons=true&theme=dark&locale=en" alt="Nicovied0" /></p>
  
- ## Conocimientos / Tecnologías
+ 
+## Technologies 
 
 <p align="left" >
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  >
@@ -58,6 +68,9 @@
     </a>  
      <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
         <img title="sequelize" alt="express" height="30" width="40" src="https://sequelize.org/img/logo.svg"/> 
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
 </p>
 
