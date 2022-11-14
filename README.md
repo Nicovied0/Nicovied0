@@ -1,11 +1,15 @@
-![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hola👋🏻,+Soy+Nicolas+Oviedo;Full+stack+web+Developer)
+<div align="center">
+  
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hi👋🏻,+I+am+Nicolas+Oviedo;Full+stack+web+Developer)
+</div>
 
----
-<img  src="https://drive.google.com/file/d/15uhWl-lieAd7zX926nNn9Nr6odOwWE-a/view?usp=sharing" />
+###
+
+<a>
+  <img align="center" src="https://i.ibb.co/s3g5tZ4/a.png"  />
+</a>
 
 
-
-[<h3 align="center" >Full Stack Web Developer. Especializado en Front-End.</h3>](https://drive.google.com/file/d/1x1xbz7xNgSO6yEMPa6911PXL829BfTKB/view?usp=sharing)
 
 
 
@@ -19,14 +23,14 @@
 </a>
  </div>
 
-## Languages - GitHub Stats 
+### Languages - GitHub Stats 
 
-<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicovied0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Azthirk" /></p>
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicovied0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nicovied0" /></p>
 
 <p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicovied0&show_icons=true&theme=dark&locale=en" alt="Nicovied0" /></p>
  
  
-## Technologies 
+### Technologies 
 
 <p align="left" >
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  >
