@@ -1,9 +1,5 @@
-<div align="center">
-  
-![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hi👋🏻,+I+am+Nicolas+Oviedo;Full+stack+web+Developer)
-</div>
 
-###
+
 
 <a>
   <img align="center" src="https://i.ibb.co/sJPN8Ln/123.png"  />
@@ -11,9 +7,14 @@
 
 
 
+### 
+<div align="center">
+  
+![](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=539bf5&size=30&lines=Hi👋🏻,+I+am+Nicolas+Oviedo;Full+stack+web+Developer)
+</div> 
 
+-----
 
-###
 <div align="center" >
 <a href="https://www.linkedin.com/in/nicol%C3%A1s-b-oviedo-0989241bb" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-montion" height="30" width="40" />
