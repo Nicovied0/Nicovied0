@@ -16,20 +16,15 @@
 -----
 
 <div align="center" >
-<a href="https://www.linkedin.com/in/nicol%C3%A1s-b-oviedo-0989241bb" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-montion" height="30" width="40" />
-</a>
-<a href="mailto:briannoviedo@gmail.com" target="blank">
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail-nico" height="30" width="40" />
-</a>
+
+ ### 👋 About me?
+I am a programming student, currently focused on Web development, I love to code and create projects that are functional and visually attractive for a better user experience.
+I characterize myself as a self-taught person, always trying to learn new technologies and tools.
+I am currently looking to work on what I am passionate about, in a place that allows me to continue learning and growing personally. 🚀
+
  </div>
 
-### Languages - GitHub Stats 
 
-<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicovied0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nicovied0" /></p>
-
-<p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicovied0&show_icons=true&theme=dark&locale=en" alt="Nicovied0" /></p>
- 
  
 ### Technologies 
 
@@ -84,18 +79,31 @@
 </p>
 
 
+### 📬 Contact
 
----
-<samp>
-  🖥Portfolio: https://ondev.vercel.app <br>
- </samp>
- 
  <samp>
-  🔻Download CV : https://ondev.vercel.app/assets/about/NICOLAS_OVIEDO.pdf 🔻
+  👨‍💻 Linkedin :https://www.linkedin.com/in/nicoboviedo/
+ </samp> 
+<br>
+ <samp>
+  ✉️ Email : briannoviedo@gmail.com 
+ </samp>
+ <br>
+<samp>
+  🖥 Portfolio: https://ondev.vercel.app
+ </samp>
+ <br>
+ <samp>
+  🔻 Download CV : https://ondev.vercel.app/assets/about/NICOLAS_OVIEDO.pdf  🔻
  </samp>
  
- ![Snake animation](https://github.com/Nicovied0/Nicovied0/blob/output/github-contribution-grid-snake.svg)
----
+
+### Languages - GitHub Stats 
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicovied0&show_icons=true&theme=dark&locale=en&layout=compact" alt="Nicovied0" /></p>
+
+<p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicovied0&show_icons=true&theme=dark&locale=en" alt="Nicovied0" /></p>
+ 
+
 <!--
 
 
