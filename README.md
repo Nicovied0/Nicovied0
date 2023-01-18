@@ -103,6 +103,27 @@ I am currently looking to work on what I am passionate about, in a place that al
 
 <p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Nicovied0&show_icons=true&theme=dark&locale=en" alt="Nicovied0" /></p>
  
+ 
+### 👨‍💻 Most relevant projects
+-----
+## EL CAMPITO REFUGIO
+<p>
+  <a href="https://el-campito-refugio.vercel.app"><img width="45%" src="https://i.imgur.com/ClXTMxE.png"></a>
+  <a href="https://el-campito-refugio.vercel.app"><img width="45%" src="https://i.imgur.com/rGzsNpe.png"></a>
+  <a href="https://el-campito-refugio.vercel.app"><img width="45%" src="https://i.imgur.com/t6zsvnv.png"></a>
+  <a href="https://el-campito-refugio.vercel.app"><img width="45%" src="https://i.imgur.com/083yOTT.png"></a>
+</p>
+<a href="https://el-campito-refugio.vercel.app">Visit site!✨</a>
+
+## PI COUNTRIES
+<p>
+  <a href="https://pi-countries.vercel.app/"><img width="45%" src="https://i.imgur.com/xH1gPrb.png"></a>
+  <a href="https://pi-countries.vercel.app/"><img width="45%" src="https://i.imgur.com/obbTSU1.png"></a>
+  <a href="https://pi-countries.vercel.app/"><img width="45%" src="https://i.imgur.com/jH4JR3z.png"></a>
+  <a href="https://pi-countries.vercel.app/"><img width="45%" src="https://i.imgur.com/XvCjafA.png"></a>
+</p>
+<a href="https://pi-countries.vercel.app/">Visit site!✨</a>
+
 
 <!--
 
