@@ -15,12 +15,10 @@
 
 -----
 
-<div align="center" >
+<div  >
 
- ### 👋 About me?
-I am a programming student, currently focused on Web development, I love to code and create projects that are functional and visually attractive for a better user experience.
-I characterize myself as a self-taught person, always trying to learn new technologies and tools.
-I am currently looking to work on what I am passionate about, in a place that allows me to continue learning and growing personally. 🚀
+
+Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from Henry. I love to code and create projects that are functional and visually appealing for a better user experience. <br>I characterize myself as a self-taught person, always trying to learn new technologies and tools. I carried out some projects that can be found in my profile and I am currently looking to work on what I am passionate about, in a place that allows me to continue learning and growing professionally. 🚀
 
  </div>
 
