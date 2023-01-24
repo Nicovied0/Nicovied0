@@ -67,8 +67,8 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
         <img title="sequelize" alt="express" height="30" width="40" src="https://sequelize.org/img/logo.svg"/> 
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="postman" width="40" height="40" />
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
