@@ -39,6 +39,18 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
             width="40" height="40" />
     </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" alt="Next"
+            width="40" height="40" />
+    </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" alt="Typescript"
+            width="40" height="40" />
+    </a>
+   <a href="https://angular.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/fluency/48/null/angularjs.png" alt="Angular"
+            width="40" height="40" />
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img title="nodejs" alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     </a>
@@ -76,7 +88,7 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="mongodb" width="40" height="40"/> 
     </a>
-    <p> Javascript | React | Redux | Node.js | Express | HTML5 | CSS3 | SASS | Bootstrap | PostgresSQL | Sequelize | Postman | Git | MongoDb </p>
+    <p> Javascript | React | Redux | Next | Typescript | Angular | Node.js | Express | HTML5 | CSS3 | SASS | Bootstrap | PostgresSQL | Sequelize | Postman | Git | MongoDb </p>
   
 </p>
 
