@@ -73,14 +73,21 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" />
     </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/tailwind_css.png"
+        alt="tailwind" width="40" height="40" />
+    </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    </a>
+    <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> 
+      <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase" width="40" height="40"/> 
     </a>
     <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
         <img title="sequelize" alt="express" height="30" width="40" src="https://sequelize.org/img/logo.svg"/> 
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="40" height="40" />
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -88,7 +95,7 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="mongodb" width="40" height="40"/> 
     </a>
-    <p> Javascript | React | Redux | Next | Typescript | Angular | Node.js | Express | HTML5 | CSS3 | SASS | Bootstrap | PostgresSQL | Sequelize | Postman | Git | MongoDb </p>
+    <p> Javascript | React | Redux | Next | Typescript | Angular | Node.js | Express | HTML5 | CSS3 | SASS | Bootstrap | Tailwind | PostgresSQL | Firebase | Sequelize | Postman | Git | MongoDb </p>
   
 </p>
 
