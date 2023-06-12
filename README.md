@@ -25,79 +25,33 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
 
  
 ### Technologies 
-
-<p align="left" >
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="40" height="40" />
-    </a>
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://files.raycast.com/4dnlt8m2mcb98bzc4zb8pggc4csi" alt="Next"
-            width="40" height="40" />
-    </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/fluency/48/null/typescript--v2.png" alt="Typescript"
-            width="40" height="40" />
-    </a>
-   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/fluency/48/null/angularjs.png" alt="Angular"
-            width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img title="nodejs" alt="nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img title="Express" alt="express" height="30" width="40" src="https://ondev.vercel.app/assets/img/express.svg"/> 
-    </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" />
-    </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" />
-    </a>
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/tailwind_css.png"
-        alt="tailwind" width="40" height="40" />
-    </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a>
-    <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> 
-      <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase" width="40" height="40"/> 
-    </a>
-    <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-        <img title="sequelize" alt="express" height="30" width="40" src="https://sequelize.org/img/logo.svg"/> 
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://img.icons8.com/color/48/null/mongodb.png" alt="mongodb" width="40" height="40"/> 
-    </a>
-    <p> Javascript | React | Redux | Next | Typescript | Angular | Node.js | Express | HTML5 | CSS3 | SASS | Bootstrap | Tailwind | PostgresSQL | Firebase | Sequelize | Postman | Git | MongoDb </p>
   
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/Redux.JS-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+![NextJs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=EXPRESS&logoColor=)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgre%20SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-ffffff?style=for-the-badge&logo=firebase&logoColor=FFA611)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![Postman](https://img.shields.io/badge/Angular-fff?style=for-the-badge&logo=postman&logoColor=EF5B25)
+![MongoDb](https://img.shields.io/badge/Mongo%20DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Auth0](https://img.shields.io/badge/Auth0-000?style=for-the-badge&logo=auth0&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm&logoColor=RED)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 
 ### 📬 Contact
