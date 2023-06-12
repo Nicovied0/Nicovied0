@@ -2,7 +2,7 @@
 
 
 <a>
-  <img align="center" src="https://i.ibb.co/L6m45CC/github-com-Nicovied0.png"  />
+  <img align="center" src="https://i.ibb.co/7yLhbyD/1.png"  />
 </a>
 
 
@@ -57,7 +57,7 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
 ### 📬 Contact
 
  <samp>
-  👨‍💻 Linkedin :https://www.linkedin.com/in/nicoboviedo/
+  👨‍💻 Linkedin : https://www.linkedin.com/in/nicoboviedo/
  </samp> 
 <br>
  <samp>
