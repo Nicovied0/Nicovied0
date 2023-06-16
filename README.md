@@ -90,7 +90,7 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
 </p>
 <a href="https://el-campito-refugio.vercel.app">Visit site!✨</a>
 
-## PI COUNTRIES
+## TU TIENDA PC 
 <p>
   <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/mpQoEGZ_d.webp?maxwidth=760&fidelity=grand"></a>
   <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/5sw5U4e.png"></a>
@@ -98,7 +98,7 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
   <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/3v2aUC1.png"></a>
 
 </p>
-<a href="https://pi-countries.vercel.app/">Visit site!✨</a>
+<a href="https://tutienda-pc.vercel.app/">Visit site!✨</a>
 
 
 <!--
