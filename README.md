@@ -27,11 +27,11 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
 ### Technologies 
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/Redux.JS-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ![NextJs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=EXPRESS&logoColor=)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -43,7 +43,7 @@ Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from H
 ![Postgres](https://img.shields.io/badge/Postgre%20SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FIREBASE-ffffff?style=for-the-badge&logo=firebase&logoColor=FFA611)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
-![Postman](https://img.shields.io/badge/Angular-fff?style=for-the-badge&logo=postman&logoColor=EF5B25)
+![Postman](https://img.shields.io/badge/Postman-fff?style=for-the-badge&logo=postman&logoColor=EF5B25)
 ![MongoDb](https://img.shields.io/badge/Mongo%20DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Auth0](https://img.shields.io/badge/Auth0-000?style=for-the-badge&logo=auth0&logoColor=white)
