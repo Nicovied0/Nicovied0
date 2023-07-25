@@ -18,7 +18,11 @@
 <div  >
 
 
-Hello! 👋 My name is Nicolás and I am a Full Stack developer graduated from Henry. I love to code and create projects that are functional and visually appealing for a better user experience. <br>I characterize myself as a self-taught person, always trying to learn new technologies and tools. I carried out some projects that can be found in my profile and I am currently looking to work on what I am passionate about, in a place that allows me to continue learning and growing professionally. 🚀
+I am a Full Stack developer with skills in several technologies.
+technologies. I stand out for being decisive, detail oriented and capable of making informed
+informed decisions to find creative solutions.
+My approach to complex projects is supported by leadership skills, logical thinking and teamwork.
+leadership, logical thinking and teamwork.
 
  </div>
 
