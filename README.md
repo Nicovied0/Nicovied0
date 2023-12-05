@@ -95,26 +95,15 @@ leadership, logical thinking and teamwork.
 </p>
 <a href="https://el-campito-refugio.vercel.app">Visit site!✨</a>
 
-## TU TIENDA PC 
+## CPU Central
 <p>
-  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/mpQoEGZ_d.webp?maxwidth=760&fidelity=grand"></a>
-  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/5sw5U4e.png"></a>
-  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/4fQdKIV.png"></a>
-  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/3v2aUC1.png"></a>
+  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/x482q5A.png"></a>
+  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/fY9KIyE.png"></a>
+  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/9pgihkR.png"></a>
+  <a href="https://tutienda-pc.vercel.app/"><img width="45%" src="https://i.imgur.com/VHPREQ2.png"></a>
 
 </p>
-<a href="https://tutienda-pc.vercel.app/">Visit site!✨</a>
+<a href="https://cpucentral.vercel.app/">Visit site!✨</a>
 
 
-<!--
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
