@@ -2,7 +2,7 @@
 
 
 <a>
-  <img align="center" src="https://github.com/Nicovied0/Nicovied0/blob/main/hader.png"  />
+  <img align="center" src="https://github.com/Nicovied0/Nicovied0/blob/main/files/header.png"  />
 </a>
 
 
@@ -77,7 +77,7 @@ leadership, logical thinking and teamwork.
  </samp>
  <br>
  <samp>
-  🔻 Download CV : https://github.com/Nicovied0/Nicovied0/blob/main/NICOLAS_OVIEDO.pdf  🔻
+  🔻 Download CV : https://github.com/Nicovied0/Nicovied0/blob/main/files/Nicolas_Oviedo_CV.pdf 🔻
  </samp>
  
 
