@@ -77,7 +77,7 @@ leadership, logical thinking and teamwork.
  </samp>
  <br>
  <samp>
-  🔻 Download CV : https://ondev.vercel.app/assets/about/NICOLAS_OVIEDO.pdf  🔻
+  🔻 Download CV : https://github.com/Nicovied0/Nicovied0/blob/main/NICOLAS_OVIEDO.pdf  🔻
  </samp>
  
 
