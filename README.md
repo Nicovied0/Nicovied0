@@ -73,7 +73,7 @@ leadership, logical thinking and teamwork.
  </samp>
  <br>
 <samp>
-  🖥 Portfolio: https://ondev.vercel.app
+  🖥 Portfolio: https://ondev.up.railway.app
  </samp>
  <br>
  <samp>
